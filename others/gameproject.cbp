@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gameproject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gameproject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gameproject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="D:/Download/SDL2-2.30.1/x86_64-w64-mingw32/include" />
+			<Add directory="D:/Download/SDL2-2.30.1/x86_64-w64-mingw32/lib" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer" />
+			<Add directory="D:/Download/SDL2-2.30.1/x86_64-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="Background.png" />
+		<Unit filename="Bird.cpp" />
+		<Unit filename="Bird.h" />
+		<Unit filename="Bird1.png" />
+		<Unit filename="Bird2.png" />
+		<Unit filename="Bird3.png" />
+		<Unit filename="Button.cpp" />
+		<Unit filename="Button.h" />
+		<Unit filename="Eight.png" />
+		<Unit filename="Five.png" />
+		<Unit filename="FlappyBirdText.png" />
+		<Unit filename="Four.png" />
+		<Unit filename="Gameloop.cpp" />
+		<Unit filename="Gameloop.h" />
+		<Unit filename="GetReadyText.png" />
+		<Unit filename="Ground.cpp" />
+		<Unit filename="Ground.h" />
+		<Unit filename="Ground1.png" />
+		<Unit filename="MenuStart.cpp" />
+		<Unit filename="MenuStart.h" />
+		<Unit filename="Nine.png" />
+		<Unit filename="Object.cpp" />
+		<Unit filename="Object.h" />
+		<Unit filename="OkButton.png" />
+		<Unit filename="One.png" />
+		<Unit filename="Pipe.cpp" />
+		<Unit filename="Pipe.h" />
+		<Unit filename="PipeDown.png" />
+		<Unit filename="PipeUp.png" />
+		<Unit filename="SDL2_mixer.dll" />
+		<Unit filename="Score.cpp" />
+		<Unit filename="Score.h" />
+		<Unit filename="ScorePanel.png" />
+		<Unit filename="Seven.png" />
+		<Unit filename="Six.png" />
+		<Unit filename="StartButton.png" />
+		<Unit filename="Tap.png" />
+		<Unit filename="TextureManager.cpp" />
+		<Unit filename="TextureManager.h" />
+		<Unit filename="Three.png" />
+		<Unit filename="TutorialHand.png" />
+		<Unit filename="Two.png" />
+		<Unit filename="Zero.png" />
+		<Unit filename="flappy-bird-hit-sound-101soundboards.mp3" />
+		<Unit filename="main.cpp" />
+		<Unit filename="sfx_die.mp3" />
+		<Unit filename="sfx_point.mp3" />
+		<Unit filename="sfx_wing.mp3" />
+		<Unit filename="stats.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
