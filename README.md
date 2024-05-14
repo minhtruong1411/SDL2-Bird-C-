@@ -50,5 +50,5 @@ Nhấn Space để thực hiện nhảy
 - Askari Hassan with SDL Tutorial series (https://www.youtube.com/watch?v=Qxt91Wq_jfo&list=PLICuKRn8LCNT2rPm9QVm7qNcQQ-FEAV8N)
 - Lazy Foo' Productions (https://lazyfoo.net/tutorials/SDL/)
 ### VI, Kết luận
-  Do là game đầu tay nên còn nhiều thiếu sót, game cần được cải tiến và fix vài lỗi nhỏ
+Đây là dự án đầu tay của mình, mong mọi người góp ý để sửa chữa và cải tiến. Cảm ơn mọi người đã dành thời gian để xem.
   
