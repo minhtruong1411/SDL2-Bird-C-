@@ -35,13 +35,12 @@ Nhấn Space để thực hiện nhảy
 <a name = "ki-thuat"/>
 
 ### IV, Các kỹ thuật lập trình được sử dụng
-  - Sử dụng thư viện đồ họa SDL
-  - Lập trình hướng đối tượng(OOP)
-  - Lập trình đa luồng(Multithread)
-  - Design Pattern: Singleton, Multiton
-  - Con trỏ, cấp phát động
-  - Chuẩn hóa vector
-  - Sử dụng các thuật toán cơ bản như thuật toán xử lý va chạm, animation,....
+ - Sử dụng thư viện SDL2 để xây dựng game.
+ - Kiến thức lập trình hướng đối tượng (Class, Struct,..).
+ - Các thuật toán Detect Collision.
+ - Kiến thức về con trỏ và cách sử dụng con trỏ.
+ - Kiến thức về hàm và các thao tác với hàm.
+ - Kỹ thuật lập trình cơ bản (Vòng lặp, mảng, số ngẫu nhiên,...)
     
 
 <a name = "ho-tro"/>
