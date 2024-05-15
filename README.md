@@ -49,6 +49,7 @@ Nhấn Space để thực hiện nhảy
 - Nguyễn Hà Đông- người đã tạo ra tựa game Flappy Bird đình đám.
 - Askari Hassan with SDL Tutorial series (https://www.youtube.com/watch?v=Qxt91Wq_jfo&list=PLICuKRn8LCNT2rPm9QVm7qNcQQ-FEAV8N)
 - Lazy Foo' Productions (https://lazyfoo.net/tutorials/SDL/)
+- AbhayJoshi -Dev for pictures (https://github.com/AbhayJoshi-Dev/FlappyBirdClone/tree/master/res/gfx)
 ### VI, Kết luận
 Đây là dự án đầu tay của mình, mong mọi người góp ý để sửa chữa và cải tiến. Cảm ơn mọi người đã dành thời gian để xem.
   
