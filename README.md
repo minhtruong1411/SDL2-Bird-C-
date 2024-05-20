@@ -41,6 +41,7 @@ Nhấn Space để thực hiện nhảy
  - Kiến thức về con trỏ và cách sử dụng con trỏ.
  - Kiến thức về hàm và các thao tác với hàm.
  - Kỹ thuật lập trình cơ bản (Vòng lặp, mảng, số ngẫu nhiên,...)
+ - Đọc, ghi, xử lý file.
     
 
 <a name = "ho-tro"/>
